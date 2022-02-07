@@ -1,5 +1,5 @@
 ---
-title: "Robert Johnson"
+title: "Grupos"
 date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/team/vince-fleming-613817-unsplash.jpg"
@@ -8,4 +8,4 @@ linkedinurl: "https://www.linkedin.com/"
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Estamos seguros que organizar viajes para grupos resulta una tarea que requiere la ayuda de un equipo de profesionales, mismos que se encarguen de dar seguimiento a todas las solicitudes. Por ello Vision Destiny cuenta con un área especializada y dispuesta a asesorarte para que tus viajes en grupo o convenciones resulten un éxito 
